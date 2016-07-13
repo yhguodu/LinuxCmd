@@ -1,0 +1,5 @@
+#daily learning
+
+#first command
+	touch: for  creating a new file
+	eg.	touch .gitignore 
