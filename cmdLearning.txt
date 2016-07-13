@@ -3,3 +3,7 @@
 #first command
 	touch: for  creating a new file
 	eg.	touch .gitignore 
+
+#tar  command
+	tar:解压文件  
+	eg: tar zxvg *.tar
