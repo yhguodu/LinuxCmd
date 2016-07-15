@@ -7,3 +7,12 @@
 #tar  command
 	tar:解压文件  
 	eg: tar zxvg *.tar
+
+#ls -l :
+	列出当前目前下文件的详细信息
+
+#scp :
+	1.scp localfile romotedestation:filedir
+	eg：scp proudlink.jar root@192.168.199.235:/opt/proudlink
+
+
