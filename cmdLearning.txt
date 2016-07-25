@@ -8,6 +8,8 @@
 	tar:解压文件  
 	eg: tar zxvg *.tar
 
+	tar:压缩文件
+	tar -vcf code.tar ./code
 #ls -l :
 	列出当前目前下文件的详细信息
 
